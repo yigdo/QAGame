@@ -1,6 +1,6 @@
 # Question And Answer Game
 ![Badge](https://img.shields.io/static/v1?label=VERY&message=Useless&color=blueviolet?style=for-the-badge&logo=appveyor)
-
+![Badge](https://img.shields.io/static/v1?label=Why%20Did%20I&message=Spent%20Time%20For%20That&color=red)
 
 This game was a sideproject for me who wanted to build a fun app! This QA Game is originally designed for testing trivia knowledge but later decided that no one is going to play a game like this. You can configure the code if you want to modify and create your own levels.
 
